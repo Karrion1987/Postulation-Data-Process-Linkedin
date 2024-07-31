@@ -1,4 +1,4 @@
- Data - Linkedin
+# Data - Linkedin
 
 ## Automating Job Application Data Extraction from LinkedIn
 
